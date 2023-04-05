@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    background-color: green;
+    width: 50%; 
+  color: white;
+  
+}
+   #vehicle{
+    text-align: center;
+}
+.container div{
+    margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+        background-color: grey;
+        flex-direction:column;
+}
